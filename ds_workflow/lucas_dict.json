@@ -1,0 +1,68 @@
+{
+    "new_english_vocabs": [
+        "holistic",
+        "caveat",
+        "immensely",
+        "rendezvous",
+        "deprecate"
+    ],
+    "new_coding_method": [
+        "json.dump",
+        "re.findall",
+        "np.random.normal"
+    ],
+    "date_count_vocabs": {
+        "date": [
+            "2022-12-11",
+            "2022-12-12"
+        ],
+        "vocab_count": [
+            1,
+            5
+        ]
+    },
+    "canvas": {
+        "fav_color": [
+            "steelblue",
+            "cadetblue",
+            "violet",
+            "lightgray"
+        ],
+        "catplot": {
+            "data": null,
+            "x": null,
+            "y": null,
+            "hue": null,
+            "row": null,
+            "col": null,
+            "col_wrap": null,
+            "estimator": "mean",
+            "errorbar": [
+                "ci",
+                95
+            ],
+            "n_boot": 1000,
+            "units": null,
+            "seed": null,
+            "order": null,
+            "hue_order": null,
+            "row_order": null,
+            "col_order": null,
+            "height": 5,
+            "aspect": 1,
+            "kind": "strip",
+            "native_scale": false,
+            "formatter": null,
+            "orient": null,
+            "color": null,
+            "palette": null,
+            "hue_norm": null,
+            "legend": "auto",
+            "legend_out": true,
+            "sharex": true,
+            "sharey": true,
+            "margin_titles": false,
+            "facet_kws": null
+        }
+    }
+}
