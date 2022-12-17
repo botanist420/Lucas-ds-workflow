@@ -12,7 +12,8 @@ print(tips.head())
 
 
 
-def example_plot(data=tips, x="tip", y="total_bill", hue="sex", size="size", sizes=(10, 100), as_example=True):
+def example_plot(data=tips, x="tip", y="total_bill", hue="sex",
+                 size="size", sizes=(10, 100), as_example=True):
     
     if as_example:
         sns.scatterplot(data=data, x=x, y=y, hue=hue,
