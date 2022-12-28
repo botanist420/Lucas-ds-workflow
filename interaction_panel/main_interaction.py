@@ -20,7 +20,4 @@ def example_plot(data=tips, x="tip", y="total_bill", hue="sex",
                         size=size, sizes=sizes)
         plt.show()
         
-        
-        
-example_plot()
-    
+
